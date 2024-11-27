@@ -21,3 +21,10 @@ Instrucciones:
 | Nombre               | No. de cuenta |
 | :------------------- | :-----------: |
 | González Méndez Gael |    2421043    |
+
+# Ejecución
+
+```bash
+javac ./App.java
+java ./App.java
+```
